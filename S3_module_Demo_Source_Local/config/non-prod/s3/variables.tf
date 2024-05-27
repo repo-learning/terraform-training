@@ -1,5 +1,5 @@
 variable "bucket" {
-    default = "my-non-prod-bucket-18-mar"
+    default = "cicd-terraform-bucket-27may"
 }
 variable "env" {
     default = "non-prod"
