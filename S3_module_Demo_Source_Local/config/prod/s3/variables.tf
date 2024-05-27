@@ -1,8 +1,8 @@
 variable "bucket" {
-    default = "prod-bucket-18-mar"
+    default = "cicd-terraform-bucket-27may"
 }
 variable "env" {
-    default = "prod-bucket-18-mar"
+    default = "cicd-terraform-bucket-27may"
 }
 
 variable "region" {
